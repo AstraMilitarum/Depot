@@ -16,6 +16,7 @@ public class GitHubDemo {
      */
     public static void main(String[] args) {
         System.out.println("Ce cours est difficile :(");
+        System.out.println("Commit 2");
     }
     
 }
