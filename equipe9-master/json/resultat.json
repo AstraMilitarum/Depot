@@ -1,0 +1,7 @@
+{
+  "complet": false,
+  "erreurs":   [
+    "Total d'heures de cours, ateliers, séminaires, colloques, conférences, lectures dirigées et heures transférées du cycle précédent est inférieur à 17 heures.",
+    "Il manque 38heures de formation pour compléter le cycle."
+  ]
+}
